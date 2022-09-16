@@ -1,0 +1,8 @@
+section#galeria div#galeria-container {
+    grid-template-columns: repeat(2, 1fr);
+}
+
+section#galeria div#galeria-container img.galeria-image {
+    width: 320px;
+    height: 420px
+}
